@@ -8,7 +8,7 @@
 * My keyboard does _not_ have the tilde key :|
 * Looking forward to living and breathing code for the next six months!
 
-> Do, or do not. There is no try.
+> "Do, or do not. There is no try."
 
-> Yoda
+> - Yoda
  
