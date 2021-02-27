@@ -1,4 +1,4 @@
-<img src="cdn.freelogovectors.net/wp-content/uploads/2016/12/general-assembly-logo.png" />
+<img src="https://thehive.sg/wp-content/uploads/2019/04/GA-1.jpg" />
 
 #General Assembly - Example Markdown
 
