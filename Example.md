@@ -1,4 +1,4 @@
-! [] (https://cdn.freelogovectors.net/wp-content/uploads/2016/12/general-assembly-logo.png")
+<img src="cdn.freelogovectors.net/wp-content/uploads/2016/12/general-assembly-logo.png" />
 
 #General Assembly - Example Markdown
 
