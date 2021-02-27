@@ -9,5 +9,6 @@
 * Looking forward to living and breathing code for the next six months!
 
 > Do, or do not. There is no try.
+
 > Yoda
  
